@@ -1,0 +1,6 @@
+# Kraken
+# https://www.kraken.com
+
+payload:
+  - DOMAIN-SUFFIX,kraken.com
+  - DOMAIN-SUFFIX,cryptowat.ch
