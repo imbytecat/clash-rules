@@ -1,0 +1,7 @@
+# Aliyun HTTPDNS
+# https://www.aliyun.com/product/httpdns
+# AS37963 Hangzhou Alibaba Advertising Co.,Ltd.
+
+payload:
+  - IP-CIDR,203.107.1.0/24
+  - IP-CIDR6,2401:b180:2000::/36
