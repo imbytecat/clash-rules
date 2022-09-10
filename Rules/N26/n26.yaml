@@ -1,0 +1,7 @@
+# N26
+# https://n26.com/en-eu
+
+payload:
+  - DOMAIN-SUFFIX,n26.com
+  - DOMAIN-SUFFIX,number26.de
+  - DOMAIN-SUFFIX,tech26.de
