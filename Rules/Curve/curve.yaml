@@ -1,0 +1,7 @@
+# Curve
+# https://www.curve.com/en-gb/
+
+payload:
+  - DOMAIN-SUFFIX,curve.app
+  - DOMAIN-SUFFIX,curve.com
+  - DOMAIN-SUFFIX,imaginecurve.com
