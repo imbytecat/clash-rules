@@ -1,0 +1,7 @@
+# Tencent Cloud HTTPDNS
+# https://cloud.tencent.com/product/httpdns
+
+payload:
+  - IP-CIDR,119.29.29.28/32
+  - IP-CIDR,119.29.29.98/32
+  - IP-CIDR,119.29.29.99/32
