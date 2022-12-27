@@ -1,0 +1,9 @@
+# Xbox Download CDN (CN)
+
+payload:
+  - DOMAIN-SUFFIX,assets1.xboxlive.cn
+  - DOMAIN-SUFFIX,assets2.xboxlive.cn
+  - DOMAIN-SUFFIX,d1.xboxlive.cn
+  - DOMAIN-SUFFIX,d2.xboxlive.cn
+  - DOMAIN-SUFFIX,dlassets.xboxlive.cn
+  - DOMAIN-SUFFIX,dlassets2.xboxlive.cn

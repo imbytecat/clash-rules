@@ -1,0 +1,16 @@
+# Xbox Download CDN
+
+payload:
+  # Common
+  - DOMAIN-SUFFIX,xvcf1.xboxlive.com
+  - DOMAIN-SUFFIX,xvcf2.xboxlive.com
+  - DOMAIN-SUFFIX,assets1.xboxlive.com
+  - DOMAIN-SUFFIX,assets2.xboxlive.com
+  - DOMAIN-SUFFIX,d1.xboxlive.com
+  - DOMAIN-SUFFIX,d2.xboxlive.com
+  # Some old games
+  - DOMAIN-SUFFIX,dlassets.xboxlive.com
+  - DOMAIN-SUFFIX,dlassets2.xboxlive.com
+  # Microsoft Store Apps & PC Games
+  - DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
+  - DOMAIN-SUFFIX,tlu.dl.delivery.mp.microsoft.com
