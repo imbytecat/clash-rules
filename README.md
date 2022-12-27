@@ -9,3 +9,4 @@ Clash Rules
 - [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules)
 - [Hackl0us/SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet)
 - [DivineEngine/Profiles](https://github.com/DivineEngine/Profiles)
+- [LM-Firefly/Rules](https://github.com/LM-Firefly/Rules)
