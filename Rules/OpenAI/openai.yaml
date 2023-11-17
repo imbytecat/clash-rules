@@ -1,0 +1,7 @@
+# OpenAI
+# https://openai.com/
+
+payload:
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,http://oaiusercontent.com
